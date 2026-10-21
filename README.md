@@ -1,3 +1,3 @@
 # -Resume-Website
 
-https://russfp.github.io/-Resume-Website/Site
+https://russfp.github.io/-Resume-Website/index
